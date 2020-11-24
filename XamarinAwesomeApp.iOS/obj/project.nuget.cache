@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ybaJ51d1w+g5XMWlre5flA3HUXo+2c7Wj33ypbk/IdWnK7o1JWmO+CM2wdoLj7628KT6OyqU7hOy1/VgvfCUg==",
+  "success": true,
+  "projectFilePath": "D:\\PROJECTS\\test\\XamarinAwesomeApp\\XamarinAwesomeApp.iOS\\XamarinAwesomeApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v-mirosm\\.nuget\\packages\\microsoft.appcenter\\4.0.0\\microsoft.appcenter.4.0.0.nupkg.sha512",
+    "C:\\Users\\v-mirosm\\.nuget\\packages\\microsoft.appcenter.analytics\\4.0.0\\microsoft.appcenter.analytics.4.0.0.nupkg.sha512",
+    "C:\\Users\\v-mirosm\\.nuget\\packages\\microsoft.appcenter.crashes\\4.0.0\\microsoft.appcenter.crashes.4.0.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
